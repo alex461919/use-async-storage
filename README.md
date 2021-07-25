@@ -5,5 +5,5 @@
 ### Npm
 
 ```
-npm i @alex461919/useAsyncStorage
+npm i @alex461919/use-async-storage
 ```

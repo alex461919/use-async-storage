@@ -26,7 +26,7 @@ const useAsyncStorage = (key, defaultValue) => {
     const removeData = () => {
         (async () => {
             try {
-                await AsyncStorage.removeItem('@MyApp_key');
+                await AsyncStorage.removeItem(key);
             } catch (e) {
                 // remove error
             }
