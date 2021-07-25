@@ -1,0 +1,27 @@
+{
+    "name": "@alex461919/useAsyncStorage",
+    "version": "1.0.0",
+    "description": "React Native Simple Async Storage Hook",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+        "test": "echo \"No test specified\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alex461919/useAsyncStorage.git"
+    },
+    "author": "Alex Didenko",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alex461919/useAsyncStorage/issues"
+    },
+    "homepage": "https://github.com/alex461919/useAsyncStorage#readme",
+    "devDependencies": {
+        "@react-native-async-storage/async-storage": "^1.15.5",
+        "@react-native-community/eslint-config": "^3.0.0",
+        "eslint": "^7.31.0",
+        "react": "^17.0.1"
+    }
+}
