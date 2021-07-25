@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/alex461919/useAsyncStorage.git"
+        "url": "git+https://github.com/alex461919/use-async-storage.git"
     },
     "author": "Alex Didenko",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/alex461919/useAsyncStorage/issues"
+        "url": "https://github.com/alex461919/use-async-storage/issues"
     },
-    "homepage": "https://github.com/alex461919/useAsyncStorage#readme",
+    "homepage": "https://github.com/alex461919/use-async-storage#readme",
     "devDependencies": {
         "@react-native-async-storage/async-storage": "^1.15.5",
         "@react-native-community/eslint-config": "^3.0.0",
