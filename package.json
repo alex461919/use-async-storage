@@ -1,6 +1,6 @@
 {
-    "name": "@alex461919/useAsyncStorage",
-    "version": "1.0.0",
+    "name": "@alex461919/use-async-storage",
+    "version": "1.0.1",
     "description": "React Native Simple Async Storage Hook",
     "main": "index.js",
     "types": "index.d.ts",
